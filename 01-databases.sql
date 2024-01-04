@@ -27,3 +27,5 @@ ALTER DATABASE learning_mysql READ ONLY = 0;
 
 -- Set the database as current database for futher actions
 USE learning_mysql;
+Edited by Hussein 
+-- Please do not drop database unless it is a business requirment 
